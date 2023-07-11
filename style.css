@@ -47,9 +47,47 @@ font-weight: 600;
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
-  line-height: normal;
+  
 }
 .banner-contant{
   padding-right: 70px;
   max-width: 500px;
+}
+/* main section */
+.main{
+  background-color: #e731581c;
+  width:1340px;
+  height: 450px;
+  margin-top: 70px;
+}
+
+.main-div{
+  padding: 30px 30px 0px 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.main-title{
+color: #272727;
+font-size: 35px;
+font-weight: 600;
+
+}
+.main-contant{
+  padding-right: 70px;
+  max-width: 500px;
+  }
+.main-button{
+  display:flex;
+  padding: 10px 33px;
+  gap: 10px;
+  border-radius: 8px;
+  background: #E55473;
+  color: #FFF;
+  font-size: 20px;
+  font-weight: 500;
+  margin: auto;
+}
+.main-description{
+  text-align: center;
 }
