@@ -144,3 +144,27 @@ padding-left: 400px;
     max-width: 1140px;
     margin: 0 auto;
   }
+  /* contact area style */
+  
+  .email{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    
+  }
+  .sumbit{
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+      
+  }
