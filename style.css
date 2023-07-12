@@ -28,56 +28,56 @@
 }
 .heder-title{
   color: #272727;
-text-shadow: 0px 4px 4px 0px;
-font-family: Lato;
-font-size: 60px;
-font-weight: 600;
-}
-.heder-discription{
+ text-shadow: 0px 4px 4px 0px;
+ font-family: Lato;
+ font-size: 60px;
+ font-weight: 600;
+ }
+ .heder-discription{
   color: #c7c2c2;
   font-family: Lato;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: 30px;
-}
-.button-primary{
+ }
+ .button-primary{
   color: #FFF;
   font-family: Lato;
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
   
-}
-.banner-contant{
+ }
+ .banner-contant{
   padding-right: 70px;
   max-width: 500px;
-}
-/* main section */
-.main{
+ }
+ /* main section */
+ .main{
   background-color: #e731581c;
-  width:1340px;
+  width:1380px;
   height: 450px;
   margin-top: 70px;
-}
+ }
 
-.main-div{
+ .main-div{
   padding: 30px 30px 0px 150px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-}
-.main-title{
-color: #272727;
-font-size: 35px;
-font-weight: 600;
+ }
+ .main-title{
+ color: #272727;
+ font-size: 35px;
+ font-weight: 600;
 
-}
-.main-contant{
+ }
+ .main-contant{
   padding-right: 70px;
   max-width: 500px;
   }
-.main-button{
+ .main-button{
   display:flex;
   padding: 10px 33px;
   gap: 10px;
@@ -87,7 +87,60 @@ font-weight: 600;
   font-size: 20px;
   font-weight: 500;
   margin: auto;
-}
-.main-description{
+ }
+ .main-description{
   text-align: center;
+ }
+ /* instagram section */
+ .instagram-section{
+  margin-top: 100px;
+ }
+ .instagram-title{
+ color: #272727;
+ text-align: center;
+ font-size: 40px;
+ font-weight: 800;
+
 }
+.section-description{
+color: rgba(39, 39, 39, 0.60);
+text-align:center;
+font-size: 18px;
+font-weight: 400;
+max-width: 500px;
+padding-left: 400px;
+}
+.instagram-container{
+  display: flex;
+  margin: 50px 0px;
+  gap: 100px;
+  }
+  .instagram{
+    margin: 10px 10px 10px 13px;
+    width: 230px;
+    
+  }
+  /* subscriber style */
+  .subscriber-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    margin-top: 5px;  
+  }
+  .subscriber-container{
+    padding: 130px;
+    border-radius: 8px;
+    margin: 128px 0px;
+    background-image: url(images/Rectangle\ 9.png);
+  }
+  .subscriber-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    
+  }
+  .subscriber-main{
+    max-width: 1140px;
+    margin: 0 auto;
+  }
