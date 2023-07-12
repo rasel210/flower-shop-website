@@ -168,3 +168,35 @@ padding-left: 400px;
     margin-left: 10px;
       
   }
+  /* footer section style */
+.footer-container{
+  width: 1340px;
+  height: 449px;
+  background: #111010;
+  text-align: center;
+  align-items: center;
+  padding-top: 50px;
+  
+}
+.footer-title{
+  color: #E55473;
+  font-size: 48px;
+  font-weight: 800;
+  
+  }
+  .footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    max-width: 500px;
+    padding-left: 400px; 
+  }
+  .footer-end{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    
+  }
+  .color{
+    color: white;
+  }
